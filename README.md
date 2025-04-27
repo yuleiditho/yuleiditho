@@ -1,16 +1,11 @@
 <h1 align="center">Hi, I'm Denisse Oliva 👋</h1>
-<!--
-**yuleiditho/yuleiditho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
 
 - 🌱 I’m currently learning in FrontEnd
 - 📫 How to reach me: [Email](mailto:yuleiditho@gmail.com)
-- ⚡ Fun fact: I love Adventure Time
 
 ## Lenguages tools
-<ul>
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
@@ -23,5 +18,4 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#" width="45" height="45" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c#" width="45" height="45"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-159-721954.png" alt="github" width="45" height="45"/>
-</ul>
-
+</p>
