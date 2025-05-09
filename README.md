@@ -17,5 +17,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#" width="45" height="45" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c#" width="45" height="45"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-159-721954.png" alt="github" width="45" height="45"/>
 </p>
