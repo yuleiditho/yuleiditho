@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Denisse Oliva 👋</h1>
 
 
-- 🌱 I’m currently learning in FrontEnd
-- 📫 How to reach me: [Email](mailto:yuleiditho@gmail.com)
+- How to reach me: [Email](mailto:yuleiditho@gmail.com)
 
 ## Lenguages tools
 <p>
